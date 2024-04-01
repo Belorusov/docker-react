@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f765108b-2421-4d77-ac7d-9893a8ed75f0" name="fr">
+        <fileTransfer rootFolder="/home/vein/front" accessType="SFTP" host="91.206.14.39" port="22" sshConfigId="e358990b-0cf5-4bb9-8036-01378a81d5a1" sshConfig="fitme" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
